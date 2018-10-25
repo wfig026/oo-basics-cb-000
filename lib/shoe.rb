@@ -8,4 +8,5 @@ class shoe
 
   def cobble
     puts "The shoe has been repaird."
+  end
 end
