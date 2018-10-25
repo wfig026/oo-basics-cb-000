@@ -11,4 +11,4 @@ class Shoe
   end
 end
 
-cobble = Shoe.new
+cobble = Shoe.new(condition)
