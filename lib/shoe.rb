@@ -11,4 +11,4 @@ class Shoe
   end
 end
 
-Show.new("new")
+Shoe.new("new")
